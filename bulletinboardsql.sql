@@ -1,4 +1,3 @@
--- Створення бази даних (опціонально, якщо ще не створена)
 CREATE DATABASE BulletinBoardDb;
 GO
 
